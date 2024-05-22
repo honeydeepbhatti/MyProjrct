@@ -1,2 +1,3 @@
 # MyProjrct
-This is my second repository
+This is my second GIT repository
+Author - Honeydeep Singh
